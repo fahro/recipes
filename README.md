@@ -4,7 +4,7 @@ Recipe app api source code.
 
 Run project locally:
 ```
- docker-compose up"
+ docker-compose up
 ```
 Open: `localhost:8000`
 
